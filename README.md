@@ -1,6 +1,7 @@
-### Hi there 👋
+# Welcome!
 
 <!--
+### Hi there 👋
 **JefferMarcelino/JefferMarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I’m Jeffer Marcelino, and I'm a teenage programmer.
+
+- I realy like to learn 😄.
+- I’m currently learning HTML and CSS 🌱
+- How to reach me 📫:
+  - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JefferMarcelino)](https://github.com/JefferMarcelino)
+  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersunde72@gmail.com)](mailto:jeffersunde72@gmail.com)
