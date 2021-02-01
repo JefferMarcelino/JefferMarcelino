@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I’m Jeffer Marcelino, and I'm a teenage programmer.
+### I’m Jeffer Marcelino, and a teenage programmer.
 
 - I realy like to learn 😄.
 - I’m currently learning HTML and CSS 🌱
