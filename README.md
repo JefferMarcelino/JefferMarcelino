@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - I realy like to learn 😄.
 - I’m currently learning HTML and CSS 🌱
+- I'm looking to collaborate on some projects 👯
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
