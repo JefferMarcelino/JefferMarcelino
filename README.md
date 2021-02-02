@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-
+<hr>
 <!--
 ### Hi there 👋
 **JefferMarcelino/JefferMarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - I realy like to learn 😄.
 - I’m currently learning HTML and CSS 🌱
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
