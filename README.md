@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<hr>
+
 <!--
 ### Hi there 👋
 **JefferMarcelino/JefferMarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
