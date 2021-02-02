@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://pt.stackoverflow.com/users/221303/jeffer-marcelino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="221303" height="30" width="40" /></a>
 <a href="https://fb.com/jeffer.marcelino.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeffer.marcelino.3" height="30" width="40" /></a>
+
 <a href="https://instagram.com/jeffermarcelino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeffermarcelino" height="30" width="40" /></a>
-<a target="_blank" href="mailto:jeffersunde72@gmail.com"> <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40"</a>
+
+<a href="mailto:jeffersunde72@gmail.com" target="blank"><img align="center" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40"</a>
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffermarcelino&show_icons=true&locale=en&layout=compact" alt="jeffermarcelino" />
