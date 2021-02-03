@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   <li>Thanks for the visit</li>
   <li>Access my <a href="https://github.com/JefferMarcelino" target="_blank" rel="external">repositories</a></li>
   <ul>
-    <li><a href="https://github.com/JefferMarcelino/Aulas-Python" target="_blank" rel="external">Python Classes</a> and <a href="https://github.com/JefferMarcelino/Python" target="_blank" rel="external">My Projects</a></li>
+    <li><a href="https://github.com/JefferMarcelino/Aulas-Python" target="_blank" rel="external">Python Classes</a> and <a href="https://github.com/JefferMarcelino/Python" target="_blank" rel="external">My Python Projects</a></li>
   </ul>
 </ul>
