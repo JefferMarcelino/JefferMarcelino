@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h3>Hi 👋, My name’s Jeffer Marcelino, and I’m programmer.</h3>
+<h3>Oi 👋, meu nome é Jeffer Marcelino, e eu sou programador.</h3>
 
-- I realy like to learn 😄.
-- I’m currently learning HTML, CSS and JavaScript! 🌱
-- I'm looking to collaborate on some projects! 👯
+- Eu realmente gosto de aprender 😄.
+- Actualmente estou apredendo HTML, CSS e JavaScript! 🌱
+- Estou procurando colaborar em alguns projetos! 👯
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://pt.stackoverflow.com/users/221303/jeffer-marcelino" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="221303" height="30" width="40" /></a>
 <a href="https://fb.com/jeffer.marcelino.3" target="_blank" rel="external"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeffer.marcelino.3" height="30" width="40" /></a>
