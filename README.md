@@ -1,4 +1,6 @@
-Hi 👋, I’m <strong>Jeffer Marcelino</strong>, a <strong>teenage programmer</strong>, I started programming a year ago learning <strong>Python</strong>, currently <strong>learning Web Development</strong> and I intend to become a professional in the area. I have a few projects but nothing in particular, and would like to <strong>colaborate on some projects!</strong>
+Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m <strong>Jeffer Marcelino</strong>, a <strong>teenage programmer</strong>, I started programming a year ago learning <strong>Python</strong>, currently <strong>learning Web Development</strong> and I intend to become a professional in the area. I have a few projects but nothing in particular, and would like to <strong>colaborate on some projects!</strong>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JefferMarcelino&color=yellow" alt="Profile views" /> </p>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
