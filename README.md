@@ -1,7 +1,22 @@
-Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m <strong>Jeffer Marcelino</strong>, a <strong>teenage programmer</strong>, I started programming a year ago learning <strong>Python</strong>, currently <strong>learning Web Development</strong> and I intend to become a professional in the area. I have a few projects but nothing in particular, and would like to <strong>colaborate on some projects!</strong>
+Passionate about Programming & Technology
 
-About me 😄 I really love anime, social media, and learn a lot about programming. And I’m really <strong>cool!!!</strong>
+I'm currently learning front-end web development with HTML, CSS and JavaScript. I intend to become a professional in the field of technology, collaborate on projects, work in large companies, work with people with clear goals!
 
+About me 😄 I really love anime, interact with other people, social media, learn a lot about programming. And I’m really cool!!! I like to face challenges, because it makes us more apt and able to deal with problems.
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefferMarcelino&layout=compact&langs_count-16&theme=merko"/>
+<a href="https://twitter.com/JefferMarcelin" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/jeffer-marcelino-94422a22b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/jeffer_marcelin/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://web.facebook.com/jeffer.marcelino.3" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=facebook" alt="instagram"/>
+</a>
+<a href="mailto:jeffersunde72@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jeffersunde72@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
+
