@@ -20,3 +20,8 @@ About me 😄 I really love anime, interact with other people, social media, lea
   <img align="center" src="https://img.shields.io/badge/-jeffersunde72@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
 </a>
 
+<br>
+<br>
+
+
+<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefferMarcelino&layout=compact&theme=vision-friendly-dark" alt="Jeffer's most languages"/>
