@@ -1,6 +1,6 @@
 Passionate about Programming & Technology
 
-I'm currently learning front-end web development. I wanna become a professional in the field of technology, collaborate on projects, work in large companies, work with people with clear goals!
+I'm currently learning front-end web development with HTML, CSS, Javascript and ReactJS. I wanna become a professional in the field of technology, collaborate on projects, work in large companies, work with people with clear goals!
 
 About me 😄 I really love anime, interact with other people, social media, learn a lot about programming. And I’m really cool!!! I like to face challenges, because it makes us more apt and able to deal with problems.
 
