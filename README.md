@@ -27,3 +27,6 @@ Visit my simple website https://jeffermarcelino.github.io/portifolio/
 
 
 <img align="left" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefferMarcelino&layout=compact&theme=vision-friendly-dark" alt="Jeffer's most languages"/>
+
+<a href="https://www.codewars.com/users/JefferMarcelino" target="_blank"><img src="https://www.codewars.com/users/JefferMarcelino/badges/small" target="_blank">
+
