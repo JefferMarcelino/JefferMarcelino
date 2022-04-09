@@ -1,8 +1,6 @@
-Passionate about Programming & Technology
+Hi there, I'm a teenager, otaku, nerd and front-end developer, I like so much programming, now I'm learning ReactJS. You can help me acessing my repos and giving your feedback. I want to work with other people and grow up, if you are looking for someone you can touch me, I'll be so happy to help you.
 
-I'm currently learning front-end web development with HTML, CSS, Javascript and ReactJS. I wanna become a professional in the field of technology, collaborate on projects, work in large companies, work with people with clear goals!
-
-About me 😄 I really love anime, interact with other people, social media, learn a lot about programming. And I’m really cool!!! I like to face challenges, because it makes us more apt and able to deal with problems.
+<strong>Let's code and work together!!!</strong>
 
 Visit my simple website https://jeffermarcelino.github.io/portifolio/
 
@@ -36,10 +34,3 @@ Visit my simple website https://jeffermarcelino.github.io/portifolio/
 <a href="mailto:jeffersunde72@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffersunde72@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
-
-<br>
-<br>
-
-
-<a href="https://www.codewars.com/users/JefferMarcelino" target="_blank"><img src="https://www.codewars.com/users/JefferMarcelino/badges/small" target="_blank">
-
