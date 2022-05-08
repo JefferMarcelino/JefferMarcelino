@@ -34,3 +34,8 @@ Visit my simple website https://jeffermarcelino.github.io/portifolio/
 <a href="mailto:jeffersunde72@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffersunde72@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
+
+<br>
+<br>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JefferMarcelin&layout=wide&show_reply=off&show_retweet=true" />
