@@ -38,4 +38,4 @@ Visit my simple website https://jeffermarcelino.github.io/portifolio/
 <br>
 <br>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JefferMarcelin&layout=wide&show_reply=off&show_retweet=true" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JefferMarcelin&layout=wide&show_reply=off&show_retweet=on" />
