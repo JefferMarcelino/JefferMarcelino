@@ -3,7 +3,7 @@ You can help me acessing my repos and giving your feedback. <strong>Let's code a
 
 <strong><em>Talk is cheap, Show me the code<em></strong>
 
-Visit my simple website https://jeffermarcelino.github.io/portifolio/
+Visit my simple blog https://personal-blog-mu-six.vercel.app/
 
 ## 🛠 &nbsp;Tech Stack
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
