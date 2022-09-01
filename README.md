@@ -29,9 +29,6 @@ Visit my simple blog https://personal-blog-mu-six.vercel.app/
 <a href="https://www.instagram.com/jeffer_marcelin/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/channel/UCXBFKr-rZ787IhXAzsnrw-Q" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=youtube" alt="Youtube"/>
-</a>
 <a href="mailto:jeffersunde72@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffersunde72@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
