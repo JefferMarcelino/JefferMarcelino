@@ -11,13 +11,12 @@ Visit my simple blog https://personal-blog-mu-six.vercel.app/
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <a href="https://twitter.com/JefferMarcelin" target="_blank">
@@ -34,10 +33,3 @@ Visit my simple blog https://personal-blog-mu-six.vercel.app/
 </a>
   
 <br>
-<br>
-
-<img src="https://www.codewars.com/users/JefferMarcelino/badges/small"></img>
-
-<br>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JefferMarcelin&layout=wide&show_reply=off&show_retweet=on" />
