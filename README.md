@@ -1,9 +1,6 @@
-Hey wassup, I'm Web Developer👨‍💻, Youtuber▶️, Otaku, and Nerd🤓, who loves programming, I'm currently learning NextJS and Django. I am looking to colaborate on projects, you can find me on my social medias.
-You can help me acessing my repos and giving your feedback. <strong>Let's code and work together!!!</strong>
+Hey wassup, I'm Web Developer👨‍💻 and Content Creator at [Maputo Frontenders](https://www.linkedin.com/company/maputo-frontenders), I have experience with Frontend working with the best technologies on the market, ReactJS, NextJS, Tailwind, GraphQL and others, and I am currently learning Backend Development.
 
 <strong><em>Talk is cheap, Show me the code<em></strong>
-
-Visit my simple blog https://personal-blog-mu-six.vercel.app/
 
 ## 🛠 &nbsp;Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
