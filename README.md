@@ -21,7 +21,7 @@ Hey wassup, I'm Web Developer👨‍💻 and Content Creator at [Maputo Frontend
 <a href="https://twitter.com/JefferMarcelin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/jeffer-marcelino-94422a22b/" target="_blank">
+<a href="https://www.linkedin.com/in/jeffermarcelino/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/jeffer_marcelin/" target="_blank">
