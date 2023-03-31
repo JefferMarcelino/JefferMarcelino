@@ -1,4 +1,4 @@
-Hey wassup, I'm Web Developer👨‍💻 and Content Creator at [Maputo Frontenders](https://www.linkedin.com/company/maputo-frontenders), I am working with technologies like ReactJS, NextJS, Tailwind, NodeJS, Prisma, Flask, and others, and I am currently enroling the Software Engineer programme at [ALX](https://www.alxafrica.com/).
+Hey wassup, I'm Web Developer👨‍💻 and Software Engineer at [Maputo Frontenders](https://www.linkedin.com/company/maputo-frontenders), I am working with technologies like ReactJS, NextJS, Tailwind, NodeJS, Prisma, Flask, and others, and I am currently enroling the Software Engineer programme at [ALX](https://www.alxafrica.com/).
 
 <strong><em>Let's connect? I will be happy to know you😁<em></strong>
 
