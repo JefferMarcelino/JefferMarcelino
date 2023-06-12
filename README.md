@@ -1,10 +1,16 @@
 # Jeffer Marcelino Sunde
 
-Hey, I'm a software engineer passionate about Web Development, Android, and Artificial Intelligence. Right now, I'm focused on becoming an expert in Frontend Development, learning advanced concepts and architectural patterns to enhance my skills. I'm also diving into Android app development using Kotlin and Jetpack Compose.
+### About Me
+Hey there! I'm Jeffer, a passionate software engineer with a focus on web development, Android, and artificial intelligence. I'm driven by my love for technology and continuously strive to expand my knowledge and skills in these areas.
 
-But that's not all! I'm also a writer, sharing my knowledge and experiences through articles on Medium. You can find my thought-provoking pieces [here](https://medium.com/@jeffermarcelino), covering a wide range of topics.
+### Web Development and Frontend Expertise
+Currently, I'm dedicated to becoming an expert in frontend development. I'm actively learning advanced concepts and architectural patterns to enhance my skills in this domain. I believe that staying up-to-date with the latest trends and best practices is crucial in delivering high-quality web applications.
 
-By the way, I'm really proud to be part of the [Maputo Frontenders](https://www.linkedin.com/company/maputo-frontenders) team. We're a group of folks who love frontend development and we work together to make our community in Maputo even better. We organize meetups, workshops, and fun coding events where everyone can learn and grow. It's an awesome team to be a part of!
+### Android App Development
+In addition to frontend development, I'm also exploring the exciting realm of Android app development. I'm diving into [Kotlin](https://kotlinlang.org/), a modern programming language, and utilizing [Jetpack Compose](https://developer.android.com/jetpack/compose) to create beautiful and interactive UIs.
+
+### Writing, Community, and Podcasting
+Aside from coding, I'm passionate about sharing my knowledge and experiences with others. Through my articles on [Medium](https://medium.com/@jeffermarcelino), I aim to provide thought-provoking insights on a wide range of topics. I'm also part of the [Maputo Frontenders](https://www.linkedin.com/company/maputo-frontenders) team, where we organize meetups, workshops, and coding events to foster growth and collaboration within our frontend development community. Furthermore, as one of the hosts on the [Debugando na Estrada](https://biolink.website/debugandonaestrada) podcast, I engage in fascinating discussions about debugging and related subjects, providing valuable insights to our listeners.
 
 Let's build awesome things together!
 
