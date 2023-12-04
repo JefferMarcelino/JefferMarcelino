@@ -1,7 +1,7 @@
 # Jeffer Marcelino Sunde
 
 ### About Me
-Hey there! I'm Jeffer, a passionate software engineer with a focus on frontend, backend, android, ios, devops, artificial intelligence, data science, and QA. Jokes, I don't know all those stuff 😆
+Hey there! I'm Jeffer, a passionate software engineer with a focus on frontend, backend, android, ios, devops, artificial intelligence, data science, and QA. Jokes, I don't know all this stuff 😆
 
 ### Web Development
 Currently, I'm dedicated to becoming an expert in web development. I'm actively learning a lot of concepts and architectural patterns to enhance my skills in this domain.
