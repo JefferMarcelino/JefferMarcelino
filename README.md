@@ -1,7 +1,7 @@
 # Jeffer Marcelino Sunde
 
 ### About Me
-Hey there! I'm a Frontend Engineer working mainly with ReactJS.
+Hey there! I'm a Fullstack Engineer working mainly with ReactJS, NextJS and NestJS.
 
 <a href="https://www.linkedin.com/in/jeffermarcelino/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-E82B47?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
