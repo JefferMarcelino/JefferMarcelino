@@ -1,8 +1,12 @@
 # Jeffer Marcelino Sunde
 
 ### About Me
-Hey there! I'm a Fullstack Engineer working mainly with ReactJS, NextJS and NestJS.
+Yo! I'm Jeffer — a Fullstack Engineer who lives and breathes ReactJS, NextJS, and NestJS.  
+Currently leveling up my skills in Go because why not add another weapon to the arsenal?  
 
+Hit me up if you wanna collab, chat code, or just geek out over tech.
+
+### Connect with me
 <a href="https://www.linkedin.com/in/jeffermarcelino/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-E82B47?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
